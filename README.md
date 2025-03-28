@@ -8,7 +8,7 @@ This project was developed as part of a **Global Supply Chain Case Competition**
 
 - [Background](#-background)
 - [Technology Stack](#-technology-stack)
-- [Process Overview](#-process-overview)
+- [Process Overview](#%EF%B8%8F-process-overview)
 - [Repository Contents](#-repository-contents)
 - [Key Results](#-key-results)
 

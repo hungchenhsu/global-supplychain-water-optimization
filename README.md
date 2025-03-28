@@ -1,4 +1,4 @@
-# Global Supply Chain Water Optimization – XYZ Corporation
+# Global Supply Chain Water Optimization – using SAS Viya
 
 This project was developed as part of the **2025 Global Supply Chain Case Competition**, hosted by Purdue University’s Daniels School of Business, CSCMP Chicago Roundtable, and SAS. Our team was tasked with minimizing water supply costs at XYZ Corporation's headquarters, Building T. Using SAS Viya, we built forecasting models and an optimization algorithm to strategically allocate water usage between two sources—maximizing efficiency and cost-effectiveness under real-world constraints.
 

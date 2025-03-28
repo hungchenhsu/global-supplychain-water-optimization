@@ -54,8 +54,8 @@ The objective was to **forecast future water demand** and **optimize water alloc
 
 ## 📁 Repository Contents
 
-- `forecast_data`: Input data containing water demand, treatment costs, and precipitation by week.
-- `contract_data`: Price tier structure and purchase limits from The Water Co.
+- `forecast_data`: Input data containing water demand, treatment costs, and precipitation by week. (*Included in the code*)
+- `contract_data`: Price tier structure and purchase limits from The Water Co. (*Included in the code*)
 - `optimization_model.sas`: Main code using PROC OPTMODEL to solve the allocation problem.
 - `README.md`: Project documentation (this file).
 

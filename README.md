@@ -71,8 +71,34 @@ The objective was to **forecast future water demand** and **optimize water alloc
   - ≥ 25% of weekly usage from the Water Storage Tank
 - **Cost Savings**: Up to **$21,680** compared to the highest-cost tier
 
----
-
 🏆 *This solution was built and submitted for the 2025 Global Supply Chain Case Competition.*
 
-📬 *For questions or collaboration, feel free to connect via GitHub or LinkedIn.*
+---
+
+## 🖼️ Project Presentation
+
+For a full overview of this project in presentation format, please see:  
+[📃 CCAC 2025 – Nimbus 2025 Team Presentation (PDF)](/ccac2025_nimbus2025_presentation.pdf)
+
+This presentation was created by **Nimbus 2025**,  
+a team led by **Hung-Chen Hsu**, with teammates **Da Fang Lin** and **Yiran Liu**.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Citation
+
+If you find this repository helpful in your research, teaching, or other work,  
+please consider citing or linking back to the repository:
+
+Hung-Chen Hsu. NCAA Bracket Prediction for CCAC 2025 using XGBoost. GitHub, 2025.
+Repository: https://github.com/hungchenhsu/ccac-2025-ncaa-bracket-xgboost
+
+This helps acknowledge the original work and supports open sharing in the ML community 🙌
+
+---
+
+Created with 💻 and 🎯 by Hung-Chen Hsu

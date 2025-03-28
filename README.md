@@ -24,6 +24,8 @@ XYZ Corporation obtains water from:
 
 The objective was to **forecast future water demand** and **optimize water allocation** between these sources over a four-week period, while satisfying operational constraints.
 
+> ⚠️ **Note:** Due to competition rules, the raw dataset used in this project cannot be uploaded to the public repository.
+
 ---
 
 ## 🛠️ Technology Stack

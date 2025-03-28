@@ -31,7 +31,7 @@ The objective was to **forecast future water demand** and **optimize water alloc
 ## 🛠️ Technology Stack
 
 - **SAS Viya**: Used throughout the project for data processing, modeling, and optimization.
-- **Forecasting Models**: Including Stacked Model (Neural Network + Time Series), Hierarchical Forecasting, and Regression.
+- **Forecasting Models**: Including Stacked Model (Neural Network + Time Series).
 - **PROC OPTMODEL**: SAS procedure used to model and solve the linear optimization problem.
 
 ---

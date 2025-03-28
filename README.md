@@ -81,7 +81,7 @@ For a full overview of this project in presentation format, please see:
 [📃 SAS 2025 Global Supply Chain Case Competition – StArS Presentation (PDF)](/sas_case2025_StArS_presentation.pdf)
 
 This presentation was created by **Nimbus 2025**,  
-a team led by **Hung-Chen Hsu**, with teammates **Da Fang Lin** and **Yiran Liu**.
+a team led by **Hung-Chen Hsu**.
 
 ---
 

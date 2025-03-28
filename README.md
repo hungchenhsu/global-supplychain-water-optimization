@@ -78,7 +78,7 @@ The objective was to **forecast future water demand** and **optimize water alloc
 ## 🖼️ Project Presentation
 
 For a full overview of this project in presentation format, please see:  
-[📃 CCAC 2025 – Nimbus 2025 Team Presentation (PDF)](/ccac2025_nimbus2025_presentation.pdf)
+[📃 SAS 2025 Global Supply Chain Case Competition – StArS Presentation (PDF)](/sas_case2025_StArS_presentation.pdf)
 
 This presentation was created by **Nimbus 2025**,  
 a team led by **Hung-Chen Hsu**, with teammates **Da Fang Lin** and **Yiran Liu**.

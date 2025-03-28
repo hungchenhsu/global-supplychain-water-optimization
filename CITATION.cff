@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Global Supply Chain: Water Allocation Optimization for Building T"
+authors:
+  - family-names: Hsu
+    given-names: Hung-Chen
+    orcid: https://orcid.org/0000-0002-8084-567X
+date-released: 2025-03-11
+version: "1.0"
+url: https://github.com/hungchenhsu/global-supplychain-water-optimization
+repository-code: https://github.com/hungchenhsu/global-supplychain-water-optimization
+license: MIT
+type: software
+keywords:
+  - supply chain
+  - optimization
+  - forecasting
+  - SAS Viya
+  - global case competition
+  - operations research
+abstract: >
+  This project was developed for the 2025 Global Supply Chain Case Competition, hosted by Purdue University.
+  It uses SAS Viya to build a stacked forecasting model and an optimization model using PROC OPTMODEL 
+  to determine the most cost-effective water allocation strategy for Building T, the corporate headquarters of XYZ Corporation. 
+  Due to competition rules, the dataset is not included in this repository.

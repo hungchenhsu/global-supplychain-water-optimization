@@ -80,7 +80,7 @@ The objective was to **forecast future water demand** and **optimize water alloc
 For a full overview of this project in presentation format, please see:  
 [📃 SAS 2025 Global Supply Chain Case Competition – StArS Presentation (PDF)](/sas_case2025_StArS_presentation.pdf)
 
-This presentation was created by **Nimbus 2025**,  
+This presentation was created by **StArS**,  
 a team led by **Hung-Chen Hsu**.
 
 ---

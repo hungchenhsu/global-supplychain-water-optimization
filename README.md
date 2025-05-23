@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this repository helpful in your research, teaching, or other work,  
 please consider citing or linking back to the repository:
 
-Hung-Chen Hsu. Global Supply Chain: Water Allocation Optimization for Building T using SAS Viya. GitHub, 2025.
+Hung-Chen Hsu. *Global Supply Chain: Water Allocation Optimization for Building T using SAS Viya*. GitHub, 2025.
 Repository: https://github.com/hungchenhsu/global-supplychain-water-optimization
 
 This helps acknowledge the original work and supports open sharing in the ML community 🙌
